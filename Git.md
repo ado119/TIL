@@ -13,6 +13,7 @@ $ git init
 ```
 
 * 결과 : git bash를 기준으로, **`(master)`**가 표시되는 것을 확인하자!
+* `.git` 폴더가 생성된다.
 
 ```bash
 student@M130411 MINGW64 ~/Desktop/TIL
